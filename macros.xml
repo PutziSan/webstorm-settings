@@ -1,6 +1,6 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="format-and-save">
+    <macro name="prettier-save">
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
