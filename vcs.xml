@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="putzisan@putzisan.de" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com/apoly/apoly-43.git" />
+          <option name="userName" value="putzisan@putzisan.de" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
