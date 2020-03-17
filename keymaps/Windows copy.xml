@@ -20,6 +20,9 @@
   <action id="Macro.format-and-save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="Macro.prettier-save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveStatementDown" />

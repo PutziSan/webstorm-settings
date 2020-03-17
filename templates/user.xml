@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="cn" value="className=&quot;$ENDE$&quot;" description="className" toReformat="false" toShortenFQNames="true">
+    <variable name="ENDE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+    </context>
+  </template>
+</templateSet>
