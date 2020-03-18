@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl up" />
@@ -14,8 +17,23 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="Macro.format-and-save">
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -25,6 +43,8 @@
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="ReformatCode" />
@@ -41,5 +61,7 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="Terminal.MoveToolWindowTabLeft" />
+  <action id="Terminal.MoveToolWindowTabRight" />
   <action id="Vcs.ReformatCommitMessage" />
 </keymap>
