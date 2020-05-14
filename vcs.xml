@@ -1,38 +1,5 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="putzisan@putzisan.de" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="putzisan@putzisan.de" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com/apoly/apoly-43.git" />
-          <option name="userName" value="putzisan@putzisan.de" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com/apoly/apoly-42.git" />
-          <option name="userName" value="putzisan@putzisan.de" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com/apoly/apoly-utils.git" />
-          <option name="userName" value="putzisan@putzisan.de" />
-        </UrlAndUserName>
-      </list>
-    </option>
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
-      </list>
-    </option>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
