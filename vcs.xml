@@ -1,26 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="putzisan@putzisan.de" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com/apoly/kundenbindung-stories.git" />
-          <option name="userName" value="putzisan@putzisan.de" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="putzisan@putzisan.de" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com/apoly/apoly-42.git" />
-          <option name="userName" value="putzisan@putzisan.de" />
-        </UrlAndUserName>
-      </list>
-    </option>
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
       <list>
