@@ -2,4 +2,16 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Consolas" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="Angular2Html" />
+        <option value="JavaScript" />
+        <option value="TypeScript" />
+        <option value="Vue" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="ts.chain.hints" />
+  </component>
 </application>
