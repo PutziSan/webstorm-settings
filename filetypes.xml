@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping ext="sketch" type="Native" />
       <mapping ext="drawio" type="Native" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
