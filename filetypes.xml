@@ -6,6 +6,7 @@
       <mapping ext="drawio" type="Native" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
