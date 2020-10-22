@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <TypeScriptCodeStyleSettings version="0">
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="BLACKLIST_IMPORTS" value="rxjs/Rx,node_modules/**,**/node_modules/**,@angular/material,@angular/material/typings/**,src/**" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
