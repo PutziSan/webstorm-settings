@@ -50,5 +50,8 @@
   </action>
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="Tool_External Tools_Sort Class Names">
+    <keyboard-shortcut first-keystroke="ctrl less" />
+  </action>
   <action id="Vcs.ReformatCommitMessage" />
 </keymap>
