@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
   <tool name="Sort Class Names" description="Sort the class names" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Program Files (x86)\Yarn\bin\yarn.cmd" />
+      <option name="COMMAND" value="C:\Users\pasca\AppData\Roaming\nvm\v12.18.4\node_modules\yarn\bin\yarn.cmd" />
       <option name="PARAMETERS" value="tw-scn $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
