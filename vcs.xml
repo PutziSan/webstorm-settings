@@ -10,18 +10,17 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="putzisan@putzisan.de" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Acidic9/prettier-plugin-tailwind.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Acidic9/tailwind-classes-sorter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-      </list>
-    </option>
+    <option name="cloneParentDir" value="C:\Users\pasca\WebstormProjects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
