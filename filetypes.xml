@@ -15,6 +15,7 @@
       <mapping pattern="prettier-plugin-sort-class-names-order" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.e2e" type="PLAIN_TEXT" />
+      <mapping pattern=".gitgnore" type="PLAIN_TEXT" />
       <removed_mapping pattern=".*rc" approved="true" type="JSON5" />
       <removed_mapping pattern=".firebaserc" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
