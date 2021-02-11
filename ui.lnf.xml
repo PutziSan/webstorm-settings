@@ -42,6 +42,7 @@
       <NestingRule child-file-suffix=".jsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".stories.tsx" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".test-data.tsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".test.tsx" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
