@@ -17,6 +17,7 @@
       <mapping pattern=".env.e2e" type="PLAIN_TEXT" />
       <mapping pattern=".gitgnore" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="ndjson" type="PLAIN_TEXT" />
       <removed_mapping pattern=".*rc" approved="true" type="JSON5" />
       <removed_mapping pattern=".firebaserc" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
