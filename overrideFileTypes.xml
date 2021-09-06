@@ -1,5 +1,8 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/dev_projects/apoly-42/packages/apoly-aut/src/apoly-tailwind.css" />
+    <file url="file://$USER_HOME$/dev_projects/apoly-42/packages/apoly-de-server/server/apoly-tailwind-without-css-variables.css" />
+    <file url="file://$USER_HOME$/dev_projects/apoly-42/packages/apoly/src/apoly-tailwind.rtl.css" />
     <file url="file://$USER_HOME$/dev_projects/apoly-43/packages/apoly-tailwind-css/apoly-tailwind-without-css-variables.css" />
     <file url="file://$USER_HOME$/dev_projects/apoly-43/packages/apoly-tailwind-css/apoly-tailwind-without-css-variables.rtl.css" />
     <file url="file://$USER_HOME$/dev_projects/apoly-43/packages/apoly-tailwind-css/apoly-tailwind.rtl.css" />
